@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "id": "greetings",
+      "name_ar": "التحيات والتعارف",
+      "name_en": "Greetings & Introductions",
+      "sentences": [
+        { "id": "g1", "text": "Hello, how are you doing today?", "focus": "stress, intonation" },
+        { "id": "g2", "text": "Nice to meet you, my name is Fahd.", "focus": "vowel length (meet/mit)" },
+        { "id": "g3", "text": "Thank you very much for your help.", "focus": "TH sound" },
+        { "id": "g4", "text": "I think we have met before, haven't we?", "focus": "TH sound, contraction" },
+        { "id": "g5", "text": "Where are you from originally?", "focus": "W vs V" }
+      ]
+    },
+    {
+      "id": "daily_life",
+      "name_ar": "الحياة اليومية",
+      "name_en": "Daily Life",
+      "sentences": [
+        { "id": "d1", "text": "I usually wake up at six in the morning.", "focus": "stress on usually" },
+        { "id": "d2", "text": "Can you please pass the bottle of water?", "focus": "P vs B" },
+        { "id": "d3", "text": "She is studying very hard for her exam.", "focus": "SH vs S, V vs F" },
+        { "id": "d4", "text": "We should probably leave before it gets dark.", "focus": "B vs V, schwa sound" },
+        { "id": "d5", "text": "I worked on this project for three weeks.", "focus": "TH sound, word stress" }
+      ]
+    },
+    {
+      "id": "fitness",
+      "name_ar": "رياضة ولياقة",
+      "name_en": "Sports & Fitness",
+      "sentences": [
+        { "id": "f1", "text": "Proper breathing improves your performance.", "focus": "P vs B, consonant clusters" },
+        { "id": "f2", "text": "Warm up thoroughly before you start training.", "focus": "TH sound, W sound" },
+        { "id": "f3", "text": "Recovery is just as important as the workout itself.", "focus": "R sound, stress" },
+        { "id": "f4", "text": "Increase the weight gradually to avoid injury.", "focus": "V vs F, consonant clusters" },
+        { "id": "f5", "text": "Athletes need a balanced diet and enough sleep.", "focus": "TH sound, vowel length" }
+      ]
+    },
+    {
+      "id": "work",
+      "name_ar": "العمل والمحتوى",
+      "name_en": "Work & Content Creation",
+      "sentences": [
+        { "id": "w1", "text": "I am building a website with free online tools.", "focus": "W sound, vowel length" },
+        { "id": "w2", "text": "This video explains the topic in simple words.", "focus": "V vs F, TH sound" },
+        { "id": "w3", "text": "Please subscribe and turn on notifications.", "focus": "consonant clusters, stress" },
+        { "id": "w4", "text": "We are preparing special content for the World Cup.", "focus": "W sound, P vs B" },
+        { "id": "w5", "text": "Thanks for watching, see you in the next video.", "focus": "TH sound, V vs F" }
+      ]
+    }
+  ]
+}
