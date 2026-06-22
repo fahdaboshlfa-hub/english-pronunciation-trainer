@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+audio/reference/*.mp3
+audio/attempts/
+results/progress.json
+*.wav
+.DS_Store
